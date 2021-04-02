@@ -10,8 +10,8 @@ Pour le configurer, il faut créer un serveur Discord avec un salon pour qu’il
 ![image](https://user-images.githubusercontent.com/57108380/113423688-344e6b80-93cf-11eb-8797-de94a1e3cf6a.png)
 
 En fin paramétrer le fichier `config.ini`.
-##Démo:
-
+## Démo:
+![Démo](https://user-images.githubusercontent.com/57108380/113425167-b50e6700-93d1-11eb-95c0-55da4a3f0331.gif)
 ## Contact :
 En cas de question, de suggestion, etc… vous pouvez me contacter soit par :
 * GitHub : https://github.com/Game-K-Hack
