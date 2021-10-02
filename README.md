@@ -1,4 +1,4 @@
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?logo=paypal&style=flat-square)](https://paypal.me/pools/c/8y8KpBnTjJ)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?logo=paypal&style=flat-square)](https://www.paypal.com/paypalme/gamekdonate)
 ## Description
 Ce programme va servir à utiliser le cmd de l’ordinateur contente ce dernier via Discord sans aucune fenêtre.
 ## Fonctionnement :
