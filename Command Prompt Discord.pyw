@@ -8,7 +8,7 @@ client = discord.Client()
 
 def config(mode):
     txt = str(open(os.path.abspath(os.path.dirname(sys.argv[0])) + "\\config.ini", "r", encoding='utf-8').read())
-    if "GitHub: https://github.com/Game-K-Hack" and "Donate: https://www.paypal.com/pools/c/8y8KpBnTjJ" in txt:
+    if "GitHub: https://github.com/Game-K-Hack" and "Donate: https://www.paypal.com/paypalme/gamekdonate" in txt:
         if mode == "token":
             start = txt.index("token_bot=") + len("token_bot=")
             end = txt.index("\nname_channel_cloning=", start)
